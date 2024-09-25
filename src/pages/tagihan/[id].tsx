@@ -29,7 +29,6 @@ import {
   CalendarIcon,
 } from "@heroicons/react/20/solid";
 import { useRouter } from "next/router";
-import { useState } from "react";
 
 const pages = [
   { name: "Dashboard", href: "#", current: false },
